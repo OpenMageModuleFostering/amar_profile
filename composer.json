@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Amar_Profile",
+    "name": "OpenMageModuleFostering\/Amar_Profile",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This Extension helps to create the customer attribute and provides the backend control to create and manage and create attribute will be used in customer general information.",
     "authors": [
-    {
-        "name": "AmarInfotech",
-        "email": "info@amarinfotech.com"
-    }
-],
+        {
+            "name": "AmarInfotech",
+            "email": "info@amarinfotech.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
